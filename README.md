@@ -9,7 +9,7 @@ I'm a passionate Software Developer with a strong foundation in Python since 202
 * 🌍  I'm based in Manila, Philippines
 * ✉️  You can contact me at [kianirel56@gmail.com](mailto:kianirel56@gmail.com)
 * 🧠  I'm learning Spring Boot
-* 💼  Visit my Portfolio at [https://portfolio-zhec.onrender.com/](https://web-portfolio-phi-nine-81.vercel.app/)
+* 💼  Visit my Portfolio at https://web-portfolio-phi-nine-81.vercel.app/
 
 ### Skills
 
